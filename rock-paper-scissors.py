@@ -51,17 +51,6 @@ else:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 # if user_choice < 0 or user_choice > 2:
 #     print("Invalid choice. You must choose 0, 1, or 2.")
 # else:
